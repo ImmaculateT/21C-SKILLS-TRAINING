@@ -1,0 +1,149 @@
+Immaculate Chepchirchir Tallam
+P.O BOX 72227-00200, Kenya
++254700-190729/+254777190729
+https://www.linkedin.com/in/immaculate-tallam/
+
+PROFILE STATEMENT
+A Technical Business-oriented acumen, responsible and adaptable Computing graduate, versed
+in data science seeking an ML/AI position which will utilize the professional and technical skills
+developed through past work experiences in the field. Possess over four years of experience in
+resolving network issues and ensuring the community has an easy time accessing network
+resources, and ensuring business continuity. I am also a self-paced learner at the AfterWork AI
+community, having familiarized myself with a broad range of topics in Data Science and ML,
+including Ensemble techniques, hyperparameter tuning, and feature engineering.
+
+TECHNICAL SUMMARY
+• Network Configuration
+• Network troubleshooting
+• P.C. Troubleshooting
+• LAN Support
+• End-User Support
+• Client/User Training
+• Server Configuration
+• Cloud Management VM Ware
+• Intranet Deployment
+• Databases: MySQL
+• Content Management Systems
+• Programming: Java, Python, JavaScript
+• Graph databases, e.g., Neo4j
+• Data Analytics tools & technologies: Google Analytics, Elastic search
+• Understanding of Server Side and Front-End technologies (HTML, CSS)
+• Excellent knowledge of I.P. Protocols, interfaces &hardware subsystems
+• Security protocols and software techniques to secure data
+• Data Science: pandas, NumPy, ML, NLP
+
+PROFESSIONAL TRAINING
+• Customer Care Excellence Training Certificate
+• Differential privacy scholarship by Facebook (ongoing)
+• Commonwealth 100 Open Source Leaders
+• AfterWork AI Data Science fellowship
+• Microsoft Azure Fundamentals
+
+CORE QUALIFICATIONS
+• Exceptional customer service skills in all departments
+• Professional in appearance always
+• Analytical and numeracy skills
+• Ease with technology
+
+WORK EXPERIENCE
+
+AFTERWORK AI DATA SCIENCE FELLOWSHIP
+Relevant modules:
+• Feature engineering
+• Hyperparameter tuning
+• Ensemble learning techniques
+• Regression/Classification
+• Credit Scoring Models
+• Data wrangling/munging
+• Text classification
+• NLP
+
+GRADUATE RESEARCH ASSISTANT –UNITED STATES INTERNATIONAL UNIVERSITY (June 2019 to date)
+PROJECT FUNDED BY THE US EMBASSY: KENYAN SOCIAL MEDIA LANDSCAPE 2019 &2020 REPORT
+• Social Network Analysis via NodeXL is a powerful tool that reveals how things
+connect and form groups. It also allows for mapping, measuring, and
+understanding the landscape of social media.
+• Trained and skilled in Brandwatch, where I track millions of conversations to
+monitor how brands and companies understand consumer insights, trends,
+influencers, and brand perception
+• Sentiment analysis and Time Series Analysis using NVivo
+• Weekly training on the software tools in the lab, i.e., NodeXL andBrandwatch
+• Primary and secondary data collection depending on the project themes and
+objectives
+• Primary and Secondary data collection
+• Writing of scientific journals and academic research papers
+UNITED BANK FOR AFRICA (BANK TELLER EXECUTIVE) (4/05/2015-30/06/2016).
+• Met and exceeded sales goal quarter over quarter at a 150%-200% pace by identifying
+and assessing customer product needs.
+• Provided exceptional customer service by actively listening to and getting to know the
+customer, which resulted in repeat customer requests to be assigned for additional
+banking needs
+• Audited volt and balanced vault totals in Exceldaily
+• Performed advanced financial transactions in a fast-paced environment toexemplify our
+goal of convenience
+• Trained/mentored new Tellers on company procedures, software’s and the significance
+of customer interaction by providing active feedback
+• Maintained high standards in branch policies, safety and compiled with regulatory
+guidelines
+
+KENYA SCHOOL OF MONETARY STUDIES (BUSINESS INTELLIGENCE INTERN) 1/11/2013-21/03/2014
+• Sourcing for relevant e-learning materials and modules from variousinstitutionsglobally
+• Training students on how to use the e-learning platforms
+• In charge of providing administration support
+• Troubleshooting networks and assisting in providing design support
+• Administrating the design of the intranet and extranet of theschool
+• Taking stock account of ICT infrastructure
+• Writing weekly reports and compiling for the various segments, and providingan
+extensive weekly summary for the department
+• Updating of the ICT tenders on the website
+• Analyzing call logs to spot trends and underlying issues
+
+CHASE BANK LIMITED (CUSTOMER SERVICE EXECUTIVE) 24/03/2014-30/08/2014.
+• Honing skills in banking products
+• Managed Inbound/Outbound calls
+• Improved customer satisfaction and implementing customer service ethic
+• Work with and advise customers in opening accounts and performingthe transaction
+• Meet with new bank customers toexplain all the services and features the bank has to
+offer
+• Collect customer information and input data into the system, ensuringconfidentiality
+• Processed transfers, check cashing deposits withdrawals for drive-through or walk-in
+customers
+
+KENYA AIRPORTS AUTHORITY (NETWORK ICT INTERN) (25/06/2012-25/08/2012)
+• Managed the authorities service helpdesk efficiently
+• Installing and configuring computer systems
+• Diagnosing and solving hardware/software faults
+• Analyzing call logs to spot trends and underlying issues
+• Consistently managed the network
+
+EDUCATION
+United States International University-Africa (in progress) 2018 - 2020
+Master of Science, Information Systems Technology
+Second Class Honors in Business Information Technology
+Jomo Kenyatta University of Agriculture and Technology
+2010-2013
+
+REFEREES
+Patrick Kanyi Wamuyu, Ph.D.
+Associate Professor of Information Technology
+Chair, Computing Department
+School of Science & Technology (SST)
+United States International University
+Cell: +254 722 309076
+Tel: +254 20 3606166
+Nairobi, Kenya.
+
+Ignatius Terer
+Head of I.T.
+Services,
+Central Bank of Kenya-KSMS
+P.O. BOX 65041-00681 NAIROBI.
+Telephone: 0722920462
+Email: TererIK@ksms.or.ke
+
+John Gathogo
+Software Engineer,
+Microsoft Kenya
+CELL: 0723905097
+Email: john.gathogo@gmail.com
+
